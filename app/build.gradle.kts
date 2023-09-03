@@ -52,4 +52,6 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:4.16.0")
     //circle pic hdodenhof
     implementation ("de.hdodenhof:circleimageview:3.1.0")
+    //splashscreen
+    implementation("androidx.core:core-splashscreen:1.0.0")
 }

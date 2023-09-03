@@ -2,12 +2,6 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AndroidBeginnerSubmissionApp" parent="Theme.Material3.DayNight">
         <item name="colorPrimary">@color/gray</item>
-        <item name="colorPrimaryVariant">@color/gray</item>
-        <item name="colorOnPrimary">@color/white</item>
-
-        <item name="colorSecondary">@color/navy_light</item>
-        <item name="colorOnSecondary">@color/white</item>
-
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
     </style>
 
